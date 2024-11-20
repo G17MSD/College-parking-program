@@ -1,0 +1,28 @@
+{
+    "numberplate_list": [
+        "12HRW34",
+        "TZ345RW"
+    ],
+    "customplate_list": [
+        "HGR23Z5"
+    ],
+    "money_unpaid": [
+        "12HRW34",
+        "HGR23Z5",
+        "TZ345RW"
+    ],
+    "money_paid": [
+        "G17MSD"
+    ],
+    "money_charged": [
+        1.98
+    ],
+    "payment_records": [
+        {
+            "time": "11:31:52",
+            "numberplate": "G17MSD",
+            "receipt": 845814287466889038666463856,
+            "date": "2024-10-25"
+        }
+    ]
+}
